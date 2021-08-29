@@ -46,8 +46,6 @@ public class User {
 	@Transient
 	private String providerId;
 
-	
-	
 	public Long getId() {
 		return id;
 	}
